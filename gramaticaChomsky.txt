@@ -1,0 +1,12 @@
+S
+ab
+SABCDE
+S->CB
+A->CB
+B->b
+A->b
+C->a
+A->DA
+D->AS
+S->EA
+E->AS

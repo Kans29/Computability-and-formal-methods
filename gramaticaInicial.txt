@@ -1,0 +1,9 @@
+S
+ab
+SAB
+S->ASA
+S->aB
+A->B
+A->S
+B->b
+B->e
